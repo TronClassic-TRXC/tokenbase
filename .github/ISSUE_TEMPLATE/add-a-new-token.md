@@ -23,6 +23,7 @@ TRXC is an ERC20 token that serves as a social digital currency with all major s
 
 **A link to the official contract address confirmation:** <!-- Contract address confirmation MUST be linked from the official website and MUST be visible publicly. It CANNOT be an Etherscan.io link. If the confirmation is not visible immediately, include an explanation of how to find it. -->
 https://www.tronclassic.xyz/
+https://etherscan.io/token/0xad5fe5b0b8ec8ff4565204990e4405b2da117d8e
 
 **Links to third-party reviews or discussion of the token, the project/product, or the token issuer:**
 <!--https://quantadex.com/vote/575/tronclassic
