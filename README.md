@@ -28,25 +28,22 @@ Description of the token can be included:
 
 ```yaml
 ---
-addr: '0x5b0751713b2527d7f002c0c4e2a37e1219610a6b'
-decimals: 18
-description: The World’s first DAPP to bet on the price of Cryptocurrencies
-name: Horse
-symbol: HORSE
+addr: '0xad5fe5b0b8ec8ff4565204990e4405b2da117d8e'
+decimals: 0
+description: TRXC is an ERC20 token that serves as a social digital currency with all major social network to make the process of sending and receiving money rewarding for everyone.
+name: tronclassic
+symbol: TRXC
 ````
 
 If you need more than one line of description, use the folded scalar notation:
 ```yaml
 ---
-addr: '0x5b0751713b2527d7f002c0c4e2a37e1219610a6b'
-decimals: 18
+addr: '0xad5fe5b0b8ec8ff4565204990e4405b2da117d8e'
+decimals: 0
 description: >-
-  The World’s first DAPP to bet on the price of Cryptocurrencies
-  
-  Ethorse is an Ethereum Smart Contract based DApp for betting on the price of
-  Cryptocurrencies and win from everyone who bets against you.
-name: Horse
-symbol: HORSE
+  TRXC is an ERC20 token that serves as a social digital currency with all major social network to make the process of sending and receiving money rewarding for everyone.
+ name: Tronclassic
+symbol: TRXC
 ````
 Note that folded scalar notation requires two new lines for a paragraph break (like Reddit format).
 
@@ -54,35 +51,35 @@ Description may contain HTML.
 
 ### Links
 Links can be included to refer the user to external resources relevant to the token. They are represented by a list of key-value pairs, where key is the type of the link. The following types are currently recognized: 
-- Bitcointalk
-- Blog
+- Bitcointalk https://bitcointalk.org/index.php?topic=3829331
+- Blog 
 - CoinMarketCap
 - Discord
-- Email
-- Facebook
-- Github
+- Email tronclassic.trxc@gmail.com
+- Facebook https://www.facebook.com/groups/1853017211395204/
+- Github https://github.com/TronClassic-TRXC
 - Reddit
 - Slack
-- Telegram
-- Twitter
+- Telegram https://t.me/ClassicTron
+- Twitter https://twitter.com/TronClassic
 - WeChat
-- Website
-- Whitepaper
-- YouTube
+- Website https://www.tronclassic.xyz/
+- Whitepaper https://drive.google.com/file/d/1_DpQVRTQbR8m3Qj4NGA70sjqhP7Qt_5w/view
+- YouTube https://www.youtube.com/channel/UCOwp1XMHOiLJ-meqNS4h8HQ
 
 Example:
 ```yaml
 ---
-addr: '0x5b0751713b2527d7f002c0c4e2a37e1219610a6b'
-decimals: 18
+addr: '0xad5fe5b0b8ec8ff4565204990e4405b2da117d8e'
+decimals: 0
 links:
-- Email: mailto:support@ethorse.com
-- Telegram: https://telegram.me/ethorse
-- Twitter: https://twitter.com/EthorseTeam
-- Website: https://ethorse.com/
-- Whitepaper: https://ethorse.com/Whitepaper.pdf
-name: Horse
-symbol: HORSE
+- Email: mailto:tronclassic.trxc@gmail.com
+- Telegram: https://t.me/ClassicTron
+- Twitter: https://twitter.com/TronClassic
+- Website: https://www.tronclassic.xyz/
+- Whitepaper: https://drive.google.com/file/d/1_DpQVRTQbR8m3Qj4NGA70sjqhP7Qt_5w/view
+name: TRONCLASSIC
+symbol: TRXC
 ```
 
 ### Notice
@@ -90,13 +87,12 @@ Notice is a special field used to communicate critical information regarding con
 Example:
 ```yaml
 ---
-addr: '0x44f12955189e3f01be5daf1dd9002ee4d774f42b'
-decimals: 18
-name: AfterSchool Token
+addr: '0xad5fe5b0b8ec8ff4565204990e4405b2da117d8e'
+decimals: 0
+name: TRONCLASSIC
 notice: >-
-  On October 12, Afterschool voluntarily suspended its ongoing crowdsale and will be returning all pledged ETH
-  to the contributors.
-  <a href="https://medium.com/afterschool/afterschool-ico-announcement-4c36b5ee45da">Read the announcement.</a>
-symbol: AST
+  
+  
+symbol: TRXC
 ```
 Notice may cointain HTML.
