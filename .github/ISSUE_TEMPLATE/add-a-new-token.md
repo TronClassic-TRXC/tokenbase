@@ -1,8 +1,6 @@
 ---
-name: Add a New Token
-TRONCLASSIC
-about: Request addition of a new token to tokenbase
-ERC20 ETHEREUM BASE
+name: TRONCLASSIC
+about: ERC20 ETHEREUM BASE
 ---
 
 <!-- This is a request to add a new token to tokenbase. You must follow the template below to request token addition.
