@@ -17,14 +17,15 @@ A token listing file must include the following information:
 
 ```yaml
 ---  # Mandatory "start of the document" marker
-addr: '0x…'  # token contract address, in single quotes
-decimals: 18 # Token decimals
-name: Human Readable Token Name  # Required
-symbol: TOKEN  # Required: Token symbol
+addr: '0xad5fe5b0b8ec8ff4565204990e4405b2da117d8e'  # token contract address, in single quotes
+decimals: 0 # Token decimals
+name: TronClassic  # Required
+symbol: TRXC  # Required: 
 ```
 
 ### Description
 Description of the token can be included:
+TRXC is an ERC20 token that serves as a social digital currency with all major social network to make the process of sending and receiving money rewarding for everyone.
 
 ```yaml
 ---
