@@ -56,10 +56,10 @@ Links can be included to refer the user to external resources relevant to the to
 - Blog 
 - CoinMarketCap
 - Discord
-- Email tronclassic.trxc@gmail.com
+- Email trxc@tronclassic.xyz
 - Facebook https://www.facebook.com/groups/1853017211395204/
 - Github https://github.com/TronClassic-TRXC
-- Reddit
+- Reddit https://www.reddit.com/user/TRONCLASSIC
 - Slack
 - Telegram https://t.me/ClassicTron
 - Twitter https://twitter.com/TronClassic
